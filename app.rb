@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require 'sinatra/activerecord'
 require 'sinatra/content_for2'
 require 'slim'
 require 'coffee_script'

@@ -9,6 +9,9 @@ gem 'sprockets'
 gem 'coffee-script'
 gem 'sass'
 gem 'less'
+gem 'sinatra-activerecord'
+gem 'sqlite3'
+
 
 # test
 group :test do
